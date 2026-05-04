@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "username": "Wiem ",
+      "email": "wiem@gmail.com",
+      "gender": "female",
+      "id": "4"
+    },
+    {
+      "username": "Elena",
+      "email": "elena.davis@example.com",
+      "id": "5"
+    },
+    {
+      "username": "Diana",
+      "email": "diana.lee@example.com",
+      "id": "6"
+    },
+    {
+      "id": "3b82",
+      "username": "zahra",
+      "email": "zahra@esprit.tn",
+      "gender": "female"
+    }
+  ]
+}
